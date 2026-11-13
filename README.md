@@ -100,4 +100,4 @@ repository's commit history.
 ## 10. Contact
 
 Questions about this policy or the extension: please open an issue at
-[github.com/aminalakhsham/apple-watch/issues](https://github.com/aminalakhsham/apple-watch/issues).
+[github.com/aminalakhsham/apple-watch-PRIVACY/issues](https://github.com/aminalakhsham/apple-watch-PRIVACY/issues).
